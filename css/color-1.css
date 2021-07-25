@@ -12,7 +12,7 @@
 .resume-download a,
 .resume-download a:hover,
 .service-title::after,
-.progress-bar > span,
+.progress-bar>span,
 .timeline-title::after,
 .filter li a::after,
 .portfolio-intro-image a,
@@ -45,8 +45,8 @@
 .search-submit,
 .error-404-section a,
 .error-404-section a:hover,
-.owl-theme .owl-controls .owl-page span{
-	background-color: #0EB57D !important;
+.owl-theme .owl-controls .owl-page span {
+    background-color: #116ed8 !important;
 }
 
 .btn-custom:hover,
@@ -63,13 +63,13 @@
 .pagination .current,
 .pagination .current:hover,
 .about-name,
-.timeline-badge > a,
+.timeline-badge>a,
 .filter li a:hover,
 .filter li a.active,
 .reference-author,
 .pricing-price,
-.input-field input:focus:not([readonly]) + label,
-.input-field textarea:focus:not([readonly]) + label,
+.input-field input:focus:not([readonly])+label,
+.input-field textarea:focus:not([readonly])+label,
 #c-form-spinner,
 .alert-title,
 .single-blog-taxonomy-item,
@@ -79,15 +79,15 @@
 .comment-content p a,
 .comment-content .reply a,
 .comment-author cite a,
-.comment-body > p a,
+.comment-body>p a,
 .comment-respond a,
 .comment-meta a.comment-edit-link,
 .related-post-author a,
 .single-portfolio-demo-link a,
 .single-portfolio-demo-link a:hover,
 .single-sidebar a:hover,
-.color-scheme-select-btn{
-	color: #0EB57D !important;
+.color-scheme-select-btn {
+    color: #116ed8 !important;
 }
 
 blockquote,
@@ -98,19 +98,19 @@ blockquote,
 .c-form-input:hover,
 .c-form-input:focus,
 body .color-scheme-select,
-.color-scheme-select-btn{
-	border-color: #0EB57D !important;
+.color-scheme-select-btn {
+    border-color: #116ed8 !important;
 }
 
 body .arrow-box::before,
-.timeline-panel .timeline-time::before{
-	border-left-color: #0EB57D !important;
+.timeline-panel .timeline-time::before {
+    border-left-color: #116ed8 !important;
 }
 
 .search-form .search-field:focus:not([readonly]),
 .input-field input:focus:not([readonly]),
-.input-field textarea:focus:not([readonly]){
-	-webkit-box-shadow: 0 1px 0 0 #0EB57D !important;
-	-moz-box-shadow: 0 1px 0 0 #0EB57D !important;
-	box-shadow: 0 1px 0 0 #0EB57D !important;
+.input-field textarea:focus:not([readonly]) {
+    -webkit-box-shadow: 0 1px 0 0 #116ed8 !important;
+    -moz-box-shadow: 0 1px 0 0 #116ed8 !important;
+    box-shadow: 0 1px 0 0 #116ed8 !important;
 }
